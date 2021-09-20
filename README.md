@@ -1,3 +1,7 @@
+## Megasena
+
+Atenção: este é apenas um projeto de aprendizado que nada tem a ver com a megasena real. Ele seleciona n. numeros aleatoriamente em um range de 1 a 60. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

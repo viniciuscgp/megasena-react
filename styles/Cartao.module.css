@@ -1,0 +1,18 @@
+.titulo {
+    background-color: goldenrod;
+    font-size: 0.6rem;
+    font-weight: bolder;
+    color:white;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.cartao {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width:150px;
+    height:230px;
+    background-color: cornflowerblue;
+}
